@@ -2,21 +2,9 @@
 
 I'm a Senior Software Engineer passionate about about learning new things, coding, and meeting new people. Welcome to my GitHub profile!
 
-## 🔭 What I'm Working On
-
-- Currently working on https://backdock.app/.
-- Exploring Laravel,React.
-
-## 🌱 What I'm Learning
-
-- Improving my skills in Laravel, PHP, React, and Shopify.
-- Exploring new concepts and updates in these technologies.
-
-
 ## 📫 How to Reach Me
 
-- LinkedIn: https://www.linkedin.com/in/hamza-maqbool-750708187/(link)
-- Email: hamza70fsd@gmail.com(mailto:your.email@example.com)
+- Email: (mailto:hamza70fsd@gmail.com)
 
 ## 🚀 My Skills
 
