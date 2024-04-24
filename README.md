@@ -1,42 +1,34 @@
-# Hello, I'm [Muhammad Hamza]! 👋
+# Hello, I'm Muhammad Hamza! 👋
 
-I'm a [Senior Software Engineer] passionate about [about learning new things, coding, and meeting new people]. Welcome to my GitHub profile!
+I'm a Senior Software Engineer passionate about about learning new things, coding, and meeting new people. Welcome to my GitHub profile!
 
 ## 🔭 What I'm Working On
 
-- Currently working on [Project/Task Name].
-- Exploring [Technology/Tool/Framework].
+- Currently working on https://backdock.app/.
+- Exploring Laravel,React.
 
 ## 🌱 What I'm Learning
 
-- Improving my skills in [Skill/Technology].
-- Learning more about [Interest/Topic].
+- Improving my skills in Laravel, PHP, React, and Shopify.
+- Exploring new concepts and updates in these technologies.
 
-## 💼 My Projects
-
-- [Project Name](link): Short description.
-- [Project Name](link): Short description.
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](link)
-- Twitter: [Your Twitter Profile](link)
-- Email: [Your Email Address](mailto:your.email@example.com)
+- LinkedIn: https://www.linkedin.com/in/hamza-maqbool-750708187/(link)
+- Email: hamza70fsd@gmail.com(mailto:your.email@example.com)
 
 ## 🚀 My Skills
 
-- Programming Languages: [List of Languages]
-- Frameworks: [List of Frameworks]
-- Tools & Technologies: [List of Tools/Technologies]
+- Programming Languages: PHP, JavaScript, TypeScript
+- Frameworks: Laravel, React, jQuery ,Express
+- Frontend Technologies: Bootstrap, CSS ,Html,Tailwind
+- E-commerce Platforms: Shopify, Stripe
+- DevOps Tools: Docker
+
 
 ## 👨‍💻 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-
-## 🌟 Fun Facts
-
-- [Fun Fact 1]
-- [Fun Fact 2]
-- [Fun Fact 3]
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Hamza-Maqbool&show_icons=true&theme=radical)
 
 Thanks for visiting! 😊
