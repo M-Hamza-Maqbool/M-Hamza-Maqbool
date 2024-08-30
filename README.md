@@ -1,5 +1,7 @@
 # Hello, I'm Muhammad Hamza! 👋
 
+![Technology Image](https://camo.githubusercontent.com/dea037f50c0daa3fa2fb743bff48f76e02b60840e9238bb698cbc90b304bd26f/68747470733a2f2f7777772e696e74656c656761696e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30382f315f4f463078454d6b5742762d36397a766d4e73365244512e676966)
+
 I'm a Senior Software Engineer with 4 years of experience specializing in the LAMP stack, React, and Shopify. I’m passionate about learning new technologies, writing clean and efficient code, and collaborating with like-minded professionals. Welcome to my GitHub profile!
 
 ## 🚀 My Tech Stack
@@ -35,5 +37,8 @@ I'm a Senior Software Engineer with 4 years of experience specializing in the LA
 ## 📫 How to Reach Me
 
 - Email: [hamza70fsd@gmail.com](mailto:hamza70fsd@gmail.com)
+- LinkedIn: [linkedin.com/in/muhammad-hamza](https://www.linkedin.com/in/muhammad-hamza)
+- Facebook: [facebook.com/muhammad.hamza](https://www.facebook.com/muhammad.hamza)
+- Instagram: [instagram.com/muhammad.hamza](https://www.instagram.com/muhammad.hamza)
 
 Thanks for visiting! 😊
