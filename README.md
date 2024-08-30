@@ -36,9 +36,7 @@ I'm a Senior Software Engineer with 4 years of experience specializing in the LA
 
 ## 📫 How to Reach Me
 
-- Email: [hamza70fsd@gmail.com](mailto:hamza70fsd@gmail.com)
-- LinkedIn: [linkedin.com/in/muhammad-hamza](https://www.linkedin.com/in/muhammad-hamza)
-- Facebook: [facebook.com/muhammad.hamza](https://www.facebook.com/muhammad.hamza)
-- Instagram: [instagram.com/muhammad.hamza](https://www.instagram.com/muhammad.hamza)
+- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza70fsd@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-maqbool-750708187/)
 
 Thanks for visiting! 😊
